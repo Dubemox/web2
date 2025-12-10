@@ -14,7 +14,7 @@ export default function Home() {
         </h1>
 
         <p className="mt-4 text-gray-600">
-          Welcome to your login starter project
+          Welcome to your login starter project!
         </p>
 
         <Link
