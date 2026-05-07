@@ -29,7 +29,7 @@ function RegisterPage() {
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("main", {
         className: "min-h-screen flex items-center justify-center px-4",
         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-            className: "w-full max-w-md bg-white dark:bg-slate-900   rounded-2xl shadow-xl p-8   animate-[fadeIn_0.6s_ease-out]",
+            className: "w-full max-w-md bg-white dark:bg-slate-900 rounded-2xl shadow-xl p-8 animate-[fadeIn_0.6s_ease-out]",
             children: [
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
                     className: "text-3xl font-bold text-gray-800 text-center",
@@ -63,7 +63,7 @@ function RegisterPage() {
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
                                     type: "text",
                                     placeholder: "John Doe",
-                                    className: "mt-1 w-full rounded-lg border border-gray-300 px-4 py-3   focus:outline-none focus:ring-2 focus:ring-indigo-500",
+                                    className: "mt-1 w-full rounded-lg border border-gray-300 px-4 py-3 focus:outline-none focus:ring-2 focus:ring-indigo-500",
                                     required: true
                                 }, void 0, false, {
                                     fileName: "[project]/app/register/page.js",
@@ -89,7 +89,7 @@ function RegisterPage() {
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
                                     type: "email",
                                     placeholder: "John@gmail.com",
-                                    className: "mt-1 w-full rounded-lg border border-gray-300 px-4 py-3   focus:outline-none focus:ring-2 focus:ring-indigo-500",
+                                    className: "mt-1 w-full rounded-lg border border-gray-300 px-4 py-3 focus:outline-none focus:ring-2 focus:ring-indigo-500",
                                     required: true
                                 }, void 0, false, {
                                     fileName: "[project]/app/register/page.js",
@@ -115,7 +115,7 @@ function RegisterPage() {
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
                                     type: "password",
                                     placeholder: "••••••••",
-                                    className: "mt-1 w-full rounded-lg border border-gray-300 px-4 py-3   focus:outline-none focus:ring-2 focus:ring-indigo-500",
+                                    className: "mt-1 w-full rounded-lg border border-gray-300 px-4 py-3 focus:outline-none focus:ring-2 focus:ring-indigo-500",
                                     required: true
                                 }, void 0, false, {
                                     fileName: "[project]/app/register/page.js",
@@ -141,7 +141,7 @@ function RegisterPage() {
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
                                     type: "password",
                                     placeholder: "••••••••",
-                                    className: "mt-1 w-full rounded-lg border border-gray-300 px-4 py-3   focus:outline-none focus:ring-2 focus:ring-indigo-500",
+                                    className: "mt-1 w-full rounded-lg border border-gray-300 px-4 py-3 focus:outline-none focus:ring-2 focus:ring-indigo-500",
                                     required: true
                                 }, void 0, false, {
                                     fileName: "[project]/app/register/page.js",
@@ -156,7 +156,7 @@ function RegisterPage() {
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                             type: "submit",
-                            className: "w-full bg-indigo-600 text-white py-3 rounded-lg font-medium   hover:bg-indigo-700 transition",
+                            className: "w-full bg-indigo-600 text-white py-3 rounded-lg font-medium hover:bg-indigo-700 transition",
                             children: "Create Account"
                         }, void 0, false, {
                             fileName: "[project]/app/register/page.js",

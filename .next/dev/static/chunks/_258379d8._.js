@@ -26,7 +26,7 @@ const Navbar = ()=>{
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], {
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("nav", {
-                className: "fixed top-4 left-1/2 -translate-x-1/2   w-[95%] max-w-6xl   bg-white/30 dark:bg-slate-900/40   backdrop-blur-lg   rounded-2xl px-6 py-4   shadow-lg   flex items-center justify-between   z-50",
+                className: "fixed top-4 left-1/2 -translate-x-1/2 w-[95%] max-w-6xl bg-white/30 dark:bg-slate-900/40 backdrop-blur-lg rounded-2xl px-6 py-4 shadow-lg flex items-center justify-between z-50",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "flex items-center gap-2 font-bold text-lg text-gray-800 dark:text-white",
@@ -131,7 +131,7 @@ const Navbar = ()=>{
                 columnNumber: 9
             }, ("TURBOPACK compile-time value", void 0)),
             menuOpen && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "   fixed top-24 left-1/2 -translate-x-1/2   w-[90%] max-w-sm   bg-white dark:bg-slate-900   rounded-2xl shadow-xl   p-6   z-40   animate-[fadeDown_0.25s_ease-out]   ",
+                className: " fixed top-24 left-1/2 -translate-x-1/2 w-[90%] max-w-sm bg-white dark:bg-slate-900 rounded-2xl shadow-xl p-6 z-40 animate-[fadeDown_0.25s_ease-out] ",
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     className: "flex flex-col gap-4 text-gray-700 dark:text-gray-200 font-medium",
                     children: [

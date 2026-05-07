@@ -63,7 +63,7 @@ function Setting() {
                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                                 title: "Toggle dark mode",
                                 onClick: ()=>setDark(!dark),
-                                className: "   rounded-lg p-2   bg-black/10 dark:bg-white/10   text-gray-800 dark:text-white   hover:scale-105 transition   ",
+                                className: " rounded-lg p-2 bg-black/10 dark:bg-white/10 text-gray-800 dark:text-white hover:scale-105 transition ",
                                 "aria-label": "Toggle theme",
                                 children: dark ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$heroicons$2f$react$2f$24$2f$solid$2f$esm$2f$SunIcon$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__SunIcon$3e$__["SunIcon"], {
                                     className: "h-5 w-5"
